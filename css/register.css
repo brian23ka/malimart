@@ -1,0 +1,34 @@
+form{
+
+    background-color: aqua;
+    width: 50%;
+    margin: auto;
+    padding: 30px;
+    border-radius: 20px;
+
+
+}
+
+
+legend{
+
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+input[type=text], input[type=email], input[type=password],
+input[type=tel], input[type=date], input[type=datetime-local]{
+
+
+    width: 100%;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    margin-top: 10px;
+    padding-left: 10px;
+    
+
+
+}

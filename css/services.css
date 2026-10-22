@@ -1,0 +1,39 @@
+#paragraph{
+
+    font-weight: bold;
+
+}
+
+
+#shipping{
+    color: red;
+}
+
+
+.one{
+
+    font-style: italic;
+}
+
+#vip{
+
+    background-color: aqua;
+    margin: 80px;
+    padding: 30px;
+    border-radius: 10px;
+    
+}
+
+#main{
+    display: flex;
+
+}
+
+.customer{
+
+    background-color: aqua;
+    margin-left: 20px;
+    padding: 30px;
+    text-align: center;
+    border-radius: 20px;
+}
